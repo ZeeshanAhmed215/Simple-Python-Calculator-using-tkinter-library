@@ -19,14 +19,8 @@ It allows users to perform basic arithmetic operations through a clean and user-
 Make sure you have **Python 3.x** installed.  
 Tkinter comes pre-installed with Python, so no extra installation is required.
 
-### Run the Calculator
-```bash
-Simple_Calculator.py
-## 📸 Screenshots
 
-## 📸 Screenshots
-
-Here is how the calculator looks in action:
+##Here is how the calculator looks in action:
 
 ![image alt](https://github.com/ZeeshanAhmed215/Simple-Python-Calculator-using-tkinter-library/blob/90667f49a0020de62fae4cbdd9010911668d74b8/Calculator_Screenshot.png)
 
