@@ -28,5 +28,5 @@ Simple_Calculator.py
 
 Here is how the calculator looks in action:
 
-![Calculator Screenshot](Calculator_Screenshot.png)
+![image alt](Calculator_Screenshot.png)
 
