@@ -21,9 +21,10 @@ To run the calculator application:
 2. Download or clone this repository to your computer.  
 3. Open the project folder in your terminal or command prompt.  
 4. Run the following command:  
+---
 
-```bash
 python calculator.py
+
 
 
 ---
