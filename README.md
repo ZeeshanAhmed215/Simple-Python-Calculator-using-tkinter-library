@@ -28,5 +28,5 @@ Simple_Calculator.py
 
 Here is how the calculator looks in action:
 
-![image alt](Calculator_Screenshot.png)
+![image alt](https://github.com/ZeeshanAhmed215/Simple-Python-Calculator-using-tkinter-library/blob/90667f49a0020de62fae4cbdd9010911668d74b8/Calculator_Screenshot.png)
 
