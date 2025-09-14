@@ -23,7 +23,7 @@ To run the calculator application:
 4. Run the following command:  
 ---
 
-python calculator.py
+Simple_Calculator.py
 
 
 
