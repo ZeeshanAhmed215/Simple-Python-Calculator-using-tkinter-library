@@ -13,13 +13,20 @@ It allows users to perform basic arithmetic operations through a clean and user-
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Run the Calculator  
 
-### Prerequisites
-Make sure you have **Python 3.x** installed.  
-Tkinter comes pre-installed with Python, so no extra installation is required.
+To run the calculator application:  
+
+1. Make sure you have **Python 3.x** installed on your system.  
+2. Download or clone this repository to your computer.  
+3. Open the project folder in your terminal or command prompt.  
+4. Run the following command:  
+
+```bash
+python calculator.py
 
 
+---
 ## Here is how the calculator looks in action:
 
 ![image alt](https://github.com/ZeeshanAhmed215/Simple-Python-Calculator-using-tkinter-library/blob/90667f49a0020de62fae4cbdd9010911668d74b8/Calculator_Screenshot.png)
