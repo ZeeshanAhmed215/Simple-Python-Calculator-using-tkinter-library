@@ -22,3 +22,11 @@ Tkinter comes pre-installed with Python, so no extra installation is required.
 ### Run the Calculator
 ```bash
 Simple_Calculator.py
+## 📸 Screenshots
+
+## 📸 Screenshots
+
+Here is how the calculator looks in action:
+
+![Calculator Screenshot](Calculator_Screenshot.png)
+
